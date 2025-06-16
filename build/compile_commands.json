@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/xtyi/code/cpp/algo/leetcode-cpp/build",
+  "command": "/usr/bin/c++ -I/home/xtyi/code/cpp/algo/leetcode-cpp/include -std=gnu++17 -o CMakeFiles/two_sum.dir/src/array/two_sum.cpp.o -c /home/xtyi/code/cpp/algo/leetcode-cpp/src/array/two_sum.cpp",
+  "file": "/home/xtyi/code/cpp/algo/leetcode-cpp/src/array/two_sum.cpp"
+},
+{
+  "directory": "/home/xtyi/code/cpp/algo/leetcode-cpp/build",
+  "command": "/usr/bin/c++ -I/home/xtyi/code/cpp/algo/leetcode-cpp/include -std=gnu++17 -o CMakeFiles/141.dir/src/linked_list/141.cpp.o -c /home/xtyi/code/cpp/algo/leetcode-cpp/src/linked_list/141.cpp",
+  "file": "/home/xtyi/code/cpp/algo/leetcode-cpp/src/linked_list/141.cpp"
+},
+{
+  "directory": "/home/xtyi/code/cpp/algo/leetcode-cpp/build",
+  "command": "/usr/bin/c++ -I/home/xtyi/code/cpp/algo/leetcode-cpp/include -std=gnu++17 -o CMakeFiles/142.dir/src/linked_list/142.cpp.o -c /home/xtyi/code/cpp/algo/leetcode-cpp/src/linked_list/142.cpp",
+  "file": "/home/xtyi/code/cpp/algo/leetcode-cpp/src/linked_list/142.cpp"
+},
+{
+  "directory": "/home/xtyi/code/cpp/algo/leetcode-cpp/build",
+  "command": "/usr/bin/c++ -I/home/xtyi/code/cpp/algo/leetcode-cpp/include -std=gnu++17 -o CMakeFiles/160.dir/src/linked_list/160.cpp.o -c /home/xtyi/code/cpp/algo/leetcode-cpp/src/linked_list/160.cpp",
+  "file": "/home/xtyi/code/cpp/algo/leetcode-cpp/src/linked_list/160.cpp"
+},
+{
+  "directory": "/home/xtyi/code/cpp/algo/leetcode-cpp/build",
+  "command": "/usr/bin/c++ -I/home/xtyi/code/cpp/algo/leetcode-cpp/include -std=gnu++17 -o CMakeFiles/19.dir/src/linked_list/19.cpp.o -c /home/xtyi/code/cpp/algo/leetcode-cpp/src/linked_list/19.cpp",
+  "file": "/home/xtyi/code/cpp/algo/leetcode-cpp/src/linked_list/19.cpp"
+}
+]
