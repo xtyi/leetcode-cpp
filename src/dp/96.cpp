@@ -1,5 +1,6 @@
-// 不同的二叉搜索树
-// 动态规划
+// 96. 不同的二叉搜索树
+// https://leetcode.cn/problems/unique-binary-search-trees/
+// tags: 动态规划
 
 #include "common.h"
 

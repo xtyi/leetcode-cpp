@@ -1,6 +1,7 @@
-// 反转链表
-// 链表
-// 反转
+// 206. 反转链表
+// https://leetcode.cn/problems/reverse-linked-list/
+// tags: 链表
+// tips: 双指针
 
 #include "common.h"
 

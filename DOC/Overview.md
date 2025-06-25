@@ -2,14 +2,22 @@
 
 Array
 - Binary Search ✅
-- Sliding Window
+- Sliding Window ✅
+- nSum ✅
 Linked List ✅
 Binary Tree ✅
 Graph ✅
 
 Backtrace ✅✅
-DFS
-BFS ✅
+DFS ❓
+BFS ❓
+
+DP ✅
 
 
+Design
+- LRU ✅
 
+
+QUEUE ✅
+STACK ✅

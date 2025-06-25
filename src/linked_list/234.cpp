@@ -1,6 +1,7 @@
-// 回文链表
-// 链表
-// 数组保存节点地址, 然后判断回文
+// 234. 回文链表
+// https://leetcode.cn/problems/palindrome-linked-list/
+// tags: 链表
+// tips: 数组保存节点地址, 然后判断回文
 
 #include "common.h"
 

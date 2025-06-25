@@ -1,6 +1,7 @@
-// 合并两个有序链表
-// 链表
-// 构造链表,虚拟头节点
+// 21. 合并两个有序链表
+// https://leetcode.cn/problems/merge-two-sorted-lists/
+// tags: 链表
+// tips: 构造链表,虚拟头节点
 
 #include "common.h"
 
